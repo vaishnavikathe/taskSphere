@@ -1,6 +1,6 @@
-# 📝 ToDo Management Application (Spring Boot)
+# 📝 TaskSphere – Enterprise Task Management API with Secure Orchestration
 
-A full-stack **ToDo Management System** built using **Java Spring Boot**, **Spring Security**, **MySQL**, and **HTML/CSS/JavaScript**.  
+A full-stack **TaskSphere – Enterprise Task Management API with Secure Orchestration** built using **Java Spring Boot**, **Spring Security**, **MySQL**, and **HTML/CSS/JavaScript**.  
 The application supports **user authentication**, **CRUD operations**, **pagination**, and **task status management** with a clean and responsive UI.
 
 ## 🚀 Features
